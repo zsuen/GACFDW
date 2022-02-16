@@ -38,12 +38,12 @@
 | reflux_lying_down_pagi | Regurgitation of reflux (fluid of liquid from your stomach coming up into your throat) when lying down | \- None <br> \- Very mild <br> \- Moderate <br> \- Severe <br> \- Very Severe <br> |
 | bitter_pagi | Bitter, acid or sour taste in your mouth | \- None <br> \- Very mild <br> \- Moderate <br> \- Severe <br> \- Very Severe <br> |
 | completion_pagi |  Completion of the 'PAGI-SYM' form | \- Incomplete <br> \- Unverified <br> \- Complete |
-| domain_nausea_pagi | Subscale score: neasea or vomiting |  |
-| domain_fullness_pagi | Subscale score: post-prandial fullness or early satiety |  |
-| domain_bloating_pagi | Subscale score: bloating |  |
-| domain_upperAbPain_pagi | Subscale score: upper abdominal pain |  |
-| domain_lowerAbPain_pagi | Subscale score: lower abdominal pain |  |
-| domain_heartburn_pagi | Subscale score: heartburn or regurgitation |  |
+| domain_nausea_pagi | Score for domain: neasea or vomiting |  |
+| domain_fullness_pagi | Score for domain: post-prandial fullness or early satiety |  |
+| domain_bloating_pagi | Score for domain: bloating |  |
+| domain_upperAbPain_pagi | Score for domain: upper abdominal pain |  |
+| domain_lowerAbPain_pagi | Score for domain: lower abdominal pain |  |
+| domain_heartburn_pagi | Score for domain: heartburn or regurgitation |  |
 | total_pagi | Overall score  |  |
  
  
@@ -131,7 +131,7 @@
 | component5_score_psqi | Score for domain: step disturbances | |
 | component6_score_psqi | Score for domain: use of sleeping medication | |
 | component7_score_psqi | Score for domain: daytime dysfunction | |
-| global_score_psqi | Score for domain: global PSQI score | |
+| global_score_psqi | global PSQI score | |
 
 
 #### <span id="table_4">4. Bristol Stool Chart (BSC)</span>
@@ -209,9 +209,9 @@
 | bowel_movement_false_alarm_pacsym | Feeling like you had to pass a bowel movement but you couldn't (false alarm) |  \- Absent<br /> \- Mild<br /> \- Moderate<br /> \- Severe<br /> \- Very severe<br /> |
 | survey_date_pacsym | Survey Date (auto populates, not seen on public survey) |  \- Absent<br /> \- Mild<br /> \- Moderate<br /> \- Severe<br /> \- Very severe<br /> |
 | completion_pacsym | Complete |  \-  Incomplete <br /> \-  Unverified <br /> \-  Complete |
-| domain_abdominal_pacsym | Subscale score: abdominal symptoms | |
-| domain_rectal_pacsym | Subscale score: rectal symptoms | |
-| domain_stool_pacsym | Subscale score: stool symptoms | |
+| domain_abdominal_pacsym | Score for domain: abdominal symptoms | |
+| domain_rectal_pacsym | Score for domain: rectal symptoms | |
+| domain_stool_pacsym | Score for domain: stool symptoms | |
 | total_pacsym | Overall score | |
 
 
@@ -258,9 +258,9 @@
 | other_often_bev | Other - How often? | \- Never or less than 1 time per week<br />\- 1 time per week<br />\- 2-3 times per week<br />\- 4-6 times per week<br />\- 1 time per day<br /> \- 2+ times per day<br />\- 3+ times per day |
 | other_amt_bev | Other - How much each time? | \- Less than 6 fl oz (3/4 cup)<br /> \- 8 fl oz (1 cup)<br /> \- 12 fl oz (1 1/2 cups)<br />\- 16 fl oz (2 cups)<br />\- More than 20 fl oz (2 1/2 cups)<br /> |
 | completion_bev | complete | \- Incomplete <br />\- Unverified <br />\- Complete |
-| SSB_floz_bev | Score for domain: Average daily sugar swetened beverages (fluid oz) | |
-| SSB_kcal_bev | Score for domain: Average daily calories from sugar swetened beverages  | |
-| SSB_gm_bev | Score for domain: Average daily sugar swetened beverages (grams) | |
-| BEV_floz_bev | Score for domain: Average total beverages (fluid oz) | |
-| BEV_kcal_bev | Score for domain: Average daily calories from total beverages  | |
-| BEV_gm_bev | Score for domain: Average daily total beverages (grams) | |
+| SSB_floz_bev | Average daily sugar swetened beverages (fluid oz) | |
+| SSB_kcal_bev | Average daily calories from sugar swetened beverages  | |
+| SSB_gm_bev | Average daily sugar swetened beverages (grams) | |
+| BEV_floz_bev | Average total beverages (fluid oz) | |
+| BEV_kcal_bev | Average daily calories from total beverages  | |
+| BEV_gm_bev | Average daily total beverages (grams) | |
